@@ -92,6 +92,10 @@
     margin-right: 20px;
 }
 
+#space_content{
+    margin-top: 19vh;
+}
+
 
 @media only screen and (min-width: 1024px) {
     /* Estilos para pantallas de escritorio */
@@ -101,9 +105,9 @@
         padding: 9px 20px;
         margin-right: 20px;
     }
-    #actView{
-        padding-left: 5em;
-        padding-right: 5em;
+    .actView{
+        padding-left: 5em !important;
+        padding-right: 5em !important;
     }
     .space_content{
         margin-top: 13vh;
@@ -151,7 +155,7 @@
         height: 100%;
     }
 
-    .space_content{
+    .space_content_index{
         margin-top: 9vh;
     }
 }
