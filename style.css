@@ -36,7 +36,17 @@ h1{
     text-align: center;
   }
 
-  #space_content{
+  .sub_tittle{
+    font-family: "Poppins", sans-serif;    
+    font-weight: 400;
+    color: #76BED0;
+    font-size: 3em;
+    text-align: center;
+  }
+
+
+
+#space_content{
     margin-top: 19vh;
 }
 
@@ -231,4 +241,25 @@ h1{
     .space_content_index{
         margin-top: 9vh;
     }
+
+
+    /* REDUCCION DE TAMAÑO A LOS SUBTITULOS PARA EVITAR EL SCROLL VERTICAL */
+    .sub_tittle{
+        font-family: "Poppins", sans-serif;    
+        font-weight: 400;
+        color: #76BED0;
+        font-size: 2.5em;
+        text-align: center;
+      }
+
+
+
+      /* REDUCCION DE TAMAÑO A LOS TITULOS PARA EVITAR EL SCROLL VERTICAL */
+      h1{
+        font-family: "Poppins", sans-serif;    
+        font-weight: 400;
+        color: #76BED0;
+        font-size: 2.5em;
+        text-align: center;
+      }
 }
