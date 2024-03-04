@@ -1,0 +1,13 @@
+  
+  .grid {
+    display: grid;
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
+    grid-template-rows: 10em 10em;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  
+  .grid-item {
+    border-radius: 1rem;
+    background-color: aqua;
+  }

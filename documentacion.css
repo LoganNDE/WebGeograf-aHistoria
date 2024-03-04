@@ -1,0 +1,11 @@
+#cards_p div{
+    background-color: #09f;
+    height: 50vh;
+    overflow: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 13px;
+    border-radius: 5px;
+
+}
+

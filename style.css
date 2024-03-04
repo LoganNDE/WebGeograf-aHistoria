@@ -12,6 +12,9 @@
     outline: none;
 }
 
+
+
+
 /* IMAGENES SUPERIORES AL NAV [GENERALITAT E IES GADEA] */
 .img-header{
     width: 7em;
@@ -110,6 +113,11 @@ h1{
 }
 
 
+.fila-desplazada{
+    margin-left: 120px;
+}
+
+
 /* ------------------------------------------------------------ */
 
 
@@ -172,6 +180,15 @@ h1{
 
 /* ------------------------------------------------------------ */
 
+
+
+.time-line{
+    height: 5px;
+    width: auto;
+    background-color: #f3c127;
+    border-radius: 10px;
+    border: #007bff solid 1px;
+}
 
 
 @media only screen and (min-width: 1024px) {
