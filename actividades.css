@@ -1,0 +1,30 @@
+/* ----------------- ESTILOS PAGINA ACTIVIDADES ---------------- */
+
+/* LINKS BOTONES DE LAS BOOTSTRAP CARDS */
+.text_color{
+    color: white;
+    text-decoration: none;
+}
+
+/* LISTA REQUISITOS PARA ASISTIR A LAS ACTIVIDADES */
+.custom-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .icon-item {
+    position: relative;
+    padding-left: 20px;
+  }
+  
+  .icon-item::before {
+    content: "\21DD";
+    color: #007bff;
+    position: absolute;
+    left: 0;
+  }
+
+  /* -------------------------------------------- */
+
+
+/* ------------------------------------------------------------ */

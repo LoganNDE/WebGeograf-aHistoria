@@ -1,0 +1,19 @@
+/* ----------------- ESTILOS PAGINA PROFESORES ---------------- */
+
+/* IMAGENES DE PROFESORES */
+.img-profesor{
+    width: 8em;
+}
+
+/* LINEA DEPARADORA DE CONTENDIO */
+.separator{
+    color: chocolate;
+}
+
+
+.fila-desplazada{
+    margin-left: 120px;
+}
+
+
+/* ------------------------------------------------------------ */
