@@ -6,6 +6,11 @@
     padding-left: 50px;
 }
 
+button a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* MODIFICACION DE LA ANIMACION DELAY DE LA LIBRERIA ANIMATED.CSS */
 /* Cambio realizado gracias a la documentacion de la misma, aqui no se usan IA,s :) */
 :root {
@@ -19,6 +24,5 @@
     padding: 9px 20px;
     margin-right: 20px;
 }
-
 
 /* ------------------------------------------------------------ */

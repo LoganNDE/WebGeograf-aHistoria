@@ -97,6 +97,12 @@ h1{
     text-decoration: none;
     text-align: center;
   }
+
+  .mail{
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
   
 
 
